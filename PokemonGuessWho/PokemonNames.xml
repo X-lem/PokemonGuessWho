@@ -1,0 +1,128 @@
+﻿<?xml version = "1.0"?>
+<pokemon>
+  <!--First Generation-->
+  <pokeball>
+    <name>Pikachu</name>
+    <number>25</number>
+  </pokeball>
+  <pokeball>
+    <name>Victreebel</name>
+    <number>71</number>
+  </pokeball>
+  <pokeball>
+    <name>Magneton</name>
+    <number>82</number>
+  </pokeball>
+  <pokeball>
+    <name>Dewgong</name>
+    <number>87</number>
+  </pokeball>
+  <pokeball>
+    <name>Gengar</name>
+    <number>94</number>
+  </pokeball>
+  <pokeball>
+    <name>Dragonair</name>
+    <number>148</number>
+  </pokeball>
+  <!--Second Generation-->
+  <pokeball>
+    <name>Togepi</name>
+    <number>175</number>
+  </pokeball>
+  <pokeball>
+    <name>Misdreavus</name>
+    <number>200</number>
+  </pokeball>
+  <pokeball>
+    <name>Wobbuffet</name>
+    <number>202</number>
+  </pokeball>
+  <pokeball>
+    <name>Shuckle</name>
+    <number>213</number>
+  </pokeball>
+  <pokeball>
+    <name>Porygon2</name>
+    <number>233</number>
+  </pokeball>
+  <pokeball>
+    <name>Suicune</name>
+    <number>245</number>
+  </pokeball>
+  <!--Third Generation-->
+  <pokeball>
+    <name>Mudkip</name>
+    <number>258</number>
+  </pokeball>
+  <pokeball>
+    <name>Azurill</name>
+    <number>298</number>
+  </pokeball>
+  <pokeball>
+    <name>Aggron</name>
+    <number>306</number>
+  </pokeball>
+  <pokeball>
+    <name>Absol</name>
+    <number>359</number>
+  </pokeball>
+  <pokeball>
+    <name>Rayquaza</name>
+    <number>384</number>
+  </pokeball>
+  <!--Fourth Generation-->
+  <pokeball>
+    <name>Turtwig</name>
+    <number>387</number>
+  </pokeball>
+  <pokeball>
+    <name>Rotom</name>
+    <number>479</number>
+  </pokeball>
+  <!--Fifth Generation-->
+  <pokeball>
+    <name>Victini </name>
+    <number>494</number>
+  </pokeball>
+  <pokeball>
+    <name>Sawsbuck</name>
+    <number>586</number>
+  </pokeball>
+  <pokeball>
+    <name>Volcarona</name>
+    <number>637</number>
+  </pokeball>
+  <!--Sixth Generation-->
+  <pokeball>
+    <name>Delphox</name>
+    <number>655</number>
+  </pokeball>
+  <pokeball>
+    <name>Amaura</name>
+    <number>698</number>
+  </pokeball>
+  <pokeball>
+    <name>Sylveon</name>
+    <number>700</number>
+  </pokeball>
+  <pokeball>
+    <name>Yveltal</name>
+    <number>717</number>
+  </pokeball>
+  <!--Seventh Generation-->
+  <!--None-->
+
+  <!--Mega pokemon-->
+  <!-- Mega Pokemon add 1000 to the regular evolutions number-->
+  <pokeball>
+    <!-- Aalakazam Number is 65 -->
+    <name>Mega Alakazam</name>
+    <number>1065</number>
+  </pokeball>
+  <pokeball>
+    <!-- Gyarados Number is 130-->
+    <name>Mega Gyarados</name>
+    <number>1130</number>
+  </pokeball>
+</pokemon>

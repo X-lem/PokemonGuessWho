@@ -1,0 +1,69 @@
+﻿body {
+    background: url('OtherPics/micro_carbon.png');
+    height: 7m;
+    margin: 2ex 2em;
+}
+
+/* Top bar error Message*/
+#tbErrorMessage {
+    width: 87%;
+    height: 3ex;
+    margin-bottom: 2ex;
+
+    /* Text */
+    text-align: center;
+    font-family: Calibri;
+    font-size: 2.5ex;
+    color: #ffd800;
+
+    /* Border */
+    border: 2px solid #E3350D;
+    border-radius: 20px;
+    background: linear-gradient(45deg, #313131 0%, #444444 100%);
+}
+
+/* Data list. Group and individual */
+
+#lblUserName {
+    color:white;
+}
+
+.pokemonListTemplate {
+    border-style: double;
+    border-color: white;
+    border-width: medium;
+
+}
+.itemPokemonListTemplate {
+
+    border-radius: 10px;
+    border-color: #E3350D;
+    border-style: solid;
+}
+
+/* Question Buttons */
+.questionsList {
+
+    /* Button look */
+    
+    width: 250px;
+    height: 25px;
+    margin-top: 1ex;
+
+    background: linear-gradient(to top, #CC0000 0%, #FF1E1E 100%);
+    background-color: #313131;
+    
+
+    /* Text */
+    color: #ffd800;
+    font-family: Verdana;
+
+    /* Border */
+    border-radius: 25px;
+    border: 2px solid white;
+}
+
+#bttnReturn {
+    margin-left: 10em;
+    
+}

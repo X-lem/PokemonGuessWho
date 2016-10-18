@@ -1,0 +1,67 @@
+﻿body {
+    background: url("OtherPics/starterPageBackground.png");
+}
+
+p {
+    font-size: 17px;
+    color: #E6BC2F;
+}
+
+#startPageTitle {
+    text-align: center;
+    margin-top: -.2ex;
+
+    /* Font / Color */
+    font-size: 8em;
+
+    background: linear-gradient(to bottom, #1c2028 0%, #08090c  100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    /* text-shadow: 2px -2px 5px #e5e4e4; _*/
+    -webkit-text-stroke: 2px #b4b6bd;
+}
+
+/***  Start: Long in CSS  ***/
+.logIn {
+    /* Display */
+    display: inline-block;
+
+}
+
+#tbUserName{
+    margin-left: 1ex;
+}
+
+/* | between the logins */
+#break {
+    font-size: 2em;
+    color: black;
+
+    margin-left: 4em;
+    margin-right: 4em;
+}
+
+#tbUserName , #tbNewGamePlayer1, #tbNewGamePlayer2 {
+    margin-left: 1ex;
+
+    
+    background: linear-gradient(45deg, #313131 0%, #444444 100%);
+    color: white;
+    text-align: center;
+
+    /* Border / size*/
+    border: 3px solid #E3350D;
+    border-radius: 20px;
+    width: 20em;
+    height: 25px;
+}
+
+#lbPlayerTurnHeading, #lbNotPlayerTurnHeading {
+    font-size: 2em;
+    font-family: Ebrima;
+    color: #feffde;
+
+    margin-bottom: 1em;
+}
+/*** End Log In CSS***/
