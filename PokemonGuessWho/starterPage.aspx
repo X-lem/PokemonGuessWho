@@ -19,7 +19,6 @@
             <asp:Button ID="btUserName" Text="Find Games" runat="server" OnClick="btUserName_Click" /> <!-- Invisible Button -->
 
             <p id="break" class="logIn">|</p>
-            <p>New Line Added</p>
                 <!-- Create a New Game -->
             <asp:TextBox ID="tbNewGamePlayer1" placeholder="Player 1" CssClass="logIn" runat="server"></asp:TextBox>                
             <asp:TextBox ID="tbNewGamePlayer2" placeholder="Player 2" CssClass="logIn" runat="server"></asp:TextBox>               
